@@ -114,13 +114,5 @@ DOI: [10.1109/ICSFT66733.2026.11507857](https://doi.org/10.1109/ICSFT66733.2026.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourav-glitch-ctrl&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sourav-glitch-ctrl" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <em>📫 Let's connect — always open to AI/ML and backend engineering opportunities!</em>
 </p>
