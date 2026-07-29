@@ -118,7 +118,7 @@ DOI: [10.1109/ICSFT66733.2026.11507857](https://doi.org/10.1109/ICSFT66733.2026.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav-glitch-ctrl" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sourav-glitch-ctrl" alt="GitHub Streak" />
 </p>
 
 <p align="center">
